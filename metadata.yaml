@@ -1,10 +1,13 @@
 _repo: Baboe-Dalima-or-The-Opium-Fiend_60751
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   translator:
     agent_name: Venning, E. J.
     gutenberg_agent_id: '51126'
     url: http://www.gutenberg.org/2009/agents/51126
+covers:
+- cover_type: archival
+  image_path: 60751-h/images/new-cover.jpg
 creator:
   author:
     agent_name: Perelaer, M. T. H. (Michael Theophile Hubert)
@@ -16,6 +19,8 @@ creator:
     gutenberg_agent_id: '51125'
     url: http://www.gutenberg.org/2009/agents/51125
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60751#Baboe-Dalima-or-The-Opium-Fiend
 gutenberg_issued: '2019-11-21'
 gutenberg_type: Text
 identifiers:
